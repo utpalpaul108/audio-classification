@@ -1,0 +1,5 @@
+tensorflow
+tensorflow-io
+opendatasets
+matplotlib
+pandas
