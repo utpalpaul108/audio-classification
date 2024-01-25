@@ -6,7 +6,7 @@ Deep learning-based audio classification. The goal of this project is to classif
 
 ## Dataset
 
-Here I have used Z by HP Unlocked Challenge 3 - Signal Processing dataset from [kaggle](https://github.com/JovianHQ/opendatasets) to count the number of Capuchinbird calls within a given clip.
+Here I have used Z by HP Unlocked Challenge 3 - Signal Processing dataset from [kaggle](https://www.kaggle.com/datasets/kenjee/z-by-hp-unlocked-challenge-3-signal-processing) to count the number of Capuchinbird calls within a given clip.
 
 
 ## Installation
